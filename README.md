@@ -1,1 +1,3 @@
-# MajorStudio1_2021
+# Major Studio-1, 2021
+
+# Instruction sets for Strangers
