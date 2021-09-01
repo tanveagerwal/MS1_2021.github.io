@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Hi!
+## Instruction sets for Strangers 
 
 You can use the [editor on GitHub](https://github.com/tanveagerwal/MajorStudio1_2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
