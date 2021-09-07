@@ -24,6 +24,10 @@ We decided to go with crosswalks since we thought that it would be really intere
 *Brainstorming*
 [Brainstorming.pdf](https://github.com/tanveagerwal/MS1_2021.github.io/files/7123739/Brainstorming.pdf)
 
+*Behaviour Mapping*
+<img width="1111" alt="Screenshot 2021-09-07 at 5 59 09 PM" src="https://user-images.githubusercontent.com/89811894/132416261-9a22328b-e384-4202-aae0-73b8a78b07e1.png">
+
+
 
 
 
