@@ -21,7 +21,9 @@ We decided to go with crosswalks since we thought that it would be really intere
 
 ## Design Methods
 
-*Brainstorming*
+*Brainstorming* 
+<img width="1251" alt="Screenshot 2021-09-07 at 6 01 04 PM" src="https://user-images.githubusercontent.com/89811894/132416394-906283d9-f153-4933-ba9c-005bc9ce537a.png">
+
 [Brainstorming.pdf](https://github.com/tanveagerwal/MS1_2021.github.io/files/7123739/Brainstorming.pdf)
 
 *Behaviour Mapping*
