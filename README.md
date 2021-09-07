@@ -51,6 +51,8 @@ We decided to go with crosswalks since we thought that it would be really intere
 
 *Photojournalling and testing*
 
+We were holding the cardboard up the whole time while these pictures were taken. So the camera is essentially us and the arm i.e, people looking in the camera were the people looking at us or the arm. Also, they did not know that it was being recorded. 
+
 
 ![IMG_6536](https://user-images.githubusercontent.com/89811894/132417644-300db2f1-e3d4-4377-8fd1-0b633f3969a9.jpeg)
 
