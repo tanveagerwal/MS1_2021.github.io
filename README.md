@@ -36,6 +36,15 @@ We decided to go with crosswalks since we thought that it would be really intere
 
 ![BM2](https://user-images.githubusercontent.com/89811894/132416644-c27591d3-045c-4a2e-8e1d-6c14f5c03c5b.jpeg)
 
+![Legend](https://user-images.githubusercontent.com/89811894/132416692-fb2e29c9-cad2-40b1-8168-811d60cfdc44.jpeg)
+
+*AEIOU*
+
+<img width="635" alt="AEIOU" src="https://user-images.githubusercontent.com/89811894/132417274-19832841-dd79-4564-80d6-c669fc057d8f.png">
+
+
+
+
 
 
 
