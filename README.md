@@ -99,6 +99,21 @@ The test form was made out of cardboard, but we will be using a material like wo
 
 The goal is to have as many people possible, pull on the strings, to wave at someone on the other side. This will probably cause them to smile at each while crossing each other. And that's it, the goal is to make a stranger smile. 
 
+## Iteration and Prototypes 
+
+To make our first prototype, we used some wood, elastic bands, nails, cardboard and light plastic. It was quick and easy, and we could see that it was working as well. 
+
+<img width="373" alt="Screenshot 2021-09-13 at 4 53 39 PM" src="https://user-images.githubusercontent.com/89811894/133155206-127ee49f-96ec-45e3-afe0-64a9855acb07.png">
+
+However, we still knew that we had to work on a few things - a more solid connection between the arm and the base, better elastic bands, a more eyecatching hand, the handle, and we had to start thinking about how we would attach this whole thing to the pole. Initially we thought about using a ton of tape and strings, but eventually found really big zip ties which did the job better and faster.
+
+To secure the hand to the base, we decided to use a bolt and set it to the required size to allow movement instead of the nail. This was successful. While getting better elastic bands, we also discovered that the mechanism works better with an elastic band on just one side instead of two. Since when we where using two bands, the hand would often get stuck on one side because of the difference in the tension of both the bands. So using just one worked out to be better and made the mechanism simpler. 
+Finally, for the handle, we used the end of an alluminium map and coloured it bright red. We thought that this would be enough to catch peoples attention.
+
+
+<img width="376" alt="P2" src="https://user-images.githubusercontent.com/89811894/133156475-5648f656-108b-49b4-b6a6-4538d4e69752.png">
+
+
 
 
 
