@@ -113,6 +113,29 @@ Finally, for the handle, we used the end of an alluminium map and coloured it br
 
 <img width="376" alt="P2" src="https://user-images.githubusercontent.com/89811894/133156475-5648f656-108b-49b4-b6a6-4538d4e69752.png">
 
+*Testing*
+
+With regard to feedback and also due to some restraints, the testing site changed closer to my partner Lauria's house. Plus, we thought that the concept of the idea did not revolve around the area, rather just any crosswalk.
+The inital stages of testing went very well. We were able to attach it well, the mechanism worked the way we wanted it to, and the hand was big enough to be seen from the other side comfortably.
+Unfortunately, while the chosen time and location yielded a high degree of foot traffic, few noticed
+the wave machine. A few people looked at it, but no one pulled the handle. One person waved
+back at us while we were using the machine and a few others smiled. Other than that, the initial
+testing was successful for mechanical refinement, but not so much for user feedback.
+
+<img width="234" alt="T1" src="https://user-images.githubusercontent.com/89811894/133157205-46314142-8172-4cc8-a5fe-00494592f230.png">
+
+<img width="174" alt="T2" src="https://user-images.githubusercontent.com/89811894/133157209-a73b213d-1a7f-4e9e-a45d-8359a64f7eff.png">
+
+After testing, we now know that we still need to work on making the hand more attention grabbing and maybe even try out another location where people will want to use it to wave on the other side. Here in New York, people are usually in a hurry to get from one place to another, despite the short interaction of the installation, we thought that maybe it would work better in a place where they are not in a rush.
+So when we saw people out having fun in the night on a street with bars, we thought that this would be a great place to test what we proposed. There were a high number of people, and they didn't seem like they had to get to another place very fast. Also, we feel that when people are intoxicated or out having fun, they are more likely to talk to or smile at strangers.
+
+<img width="500" alt="NL" src="https://user-images.githubusercontent.com/89811894/133158164-81a000b7-c369-4e08-8e1f-31becbad51ae.png">
+
+<img width="500" alt="NL1" src="https://user-images.githubusercontent.com/89811894/133158178-118bbf02-39e1-405d-9c82-b1da2ab6c72b.png">
+
+To make sure that people pay attention to the hand, we decided to use electroluminescent wire around the arm. Thiis would not only grab attention, but also give the installation a little more life. This light will also be used on the handle, so that people understand what the handle is for.
+
+In addition to adding the light, we are also going to look for light catching or light reflecting materials that we can use. Since although the light will catch attention during the night, it may not during the day. So to make sure that the arm can be used to say hi to someone on the other side regardless of what time it is, we decided to use both. 
 
 
 
