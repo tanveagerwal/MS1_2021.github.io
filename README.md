@@ -137,9 +137,38 @@ To make sure that people pay attention to the hand, we decided to use electrolum
 
 In addition to adding the light, we are also going to look for light catching or light reflecting materials that we can use. Since although the light will catch attention during the night, it may not during the day. So to make sure that the arm can be used to say hi to someone on the other side regardless of what time it is, we decided to use both. 
 
+## Final Prototype 
 
+Unfortunately, during this stage of the project I had to isolate. However, my teammate Lauria made sure that we were on track. 
 
+*Images and Outcome
 
+![IMG_6681](https://user-images.githubusercontent.com/89811894/135556833-1138cb8e-ddd4-4d66-9457-106229d9c2b4.JPG)
+<img width="616" alt="Screenshot 2021-09-19 at 3 22 35 PM" src="https://user-images.githubusercontent.com/89811894/135556875-11f860e8-b67f-4cac-af75-4c92c09a81f6.png">
+
+<img width="613" alt="Screenshot 2021-09-19 at 3 24 10 PM" src="https://user-images.githubusercontent.com/89811894/135556884-9da7ff74-95c7-4bf2-949c-e2c78c2f55cb.png">
+
+![IMG_6680](https://user-images.githubusercontent.com/89811894/135556896-28774fa6-ea69-49ee-880d-dfee5f65e2b6.JPG)
+
+<img width="1096" alt="Screenshot 2021-09-19 at 3 25 53 PM" src="https://user-images.githubusercontent.com/89811894/135556907-278a4a6b-7159-476c-a630-cb95c5d5a290.png">
+
+*Final Video Link*
+
+https://vimeo.com/619521522
+
+*Intention* 
+
+The intention of the installation was for strangers to notice, or ideally greet each other. The greeting did not have to be verbal. Even just smiling at a stranger would do. It's meant to be a short interaction, and not too deep. It may be classified as reflective or even emotional, if someone was feeling lonely and needed it on the particular day. We just wanted people to feel a tad happier after they interacted with the installation. 
+
+*Observation* 
+Since the nature of the location and the intent of the installation was short in nature, most of the interactions were short as well. However, there were some poeple who spent longer with it. Either inspecting what it was by walking back and forth, or taking a picture of it, or just enjoy waving. What we realised was that people were extremely delicate with the work. If it did not move o a slight touch, they did not put pressure. This makes sense because they probably did not want to break it, which again makes you reflect on the whole concept of art and it's fragile nature. 
+In addition to the video, Lauria and I tested it again the next weekend at a different location and at a different time. We went to Tompkins Square park in the evening when it was still light out. 
+The results from this day too were better than we anticipated. It was s slow start, but we actually achived our goal at making strangers interact. And this interaction was much longer than we had intended. Instead of just a greeting, groups of strangers spoke for a little longer. To some, it was playful and to some it was interospective. 
+So overall, we believe that we succeeded in our goal. 
+
+*Reflection* 
+
+The entire project was quick and fun. From the time we started to think about what to do, everything was very hands on and that is something I loved, especially after being indoors for a year. There was a flow in all our discussions which made us reach an outcome that we wanted without too much confusion. After the initial testings, we weren't sure about how many people would interact, but we decided to go ahead with the idea anyway, and I am so happy that we did. It turned out to be better than we expected, which was clear from all the interactions on site and iin class. Although I was unable to be physically present for the first testing of the final outcome, I went with Lauria the second time. I am also grateful for having her as a partner and Harpreet as our professor because of how understanding they were through everything. 
 
 
 
