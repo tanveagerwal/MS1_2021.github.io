@@ -141,7 +141,7 @@ In addition to adding the light, we are also going to look for light catching or
 
 Unfortunately, during this stage of the project I had to isolate. However, my teammate Lauria made sure that we were on track. 
 
-*Images and Outcome
+*Images and Outcome*
 
 ![IMG_6681](https://user-images.githubusercontent.com/89811894/135556833-1138cb8e-ddd4-4d66-9457-106229d9c2b4.JPG)
 <img width="616" alt="Screenshot 2021-09-19 at 3 22 35 PM" src="https://user-images.githubusercontent.com/89811894/135556875-11f860e8-b67f-4cac-af75-4c92c09a81f6.png">
@@ -161,6 +161,7 @@ https://vimeo.com/619521522
 The intention of the installation was for strangers to notice, or ideally greet each other. The greeting did not have to be verbal. Even just smiling at a stranger would do. It's meant to be a short interaction, and not too deep. It may be classified as reflective or even emotional, if someone was feeling lonely and needed it on the particular day. We just wanted people to feel a tad happier after they interacted with the installation. 
 
 *Observation* 
+
 Since the nature of the location and the intent of the installation was short in nature, most of the interactions were short as well. However, there were some poeple who spent longer with it. Either inspecting what it was by walking back and forth, or taking a picture of it, or just enjoy waving. What we realised was that people were extremely delicate with the work. If it did not move o a slight touch, they did not put pressure. This makes sense because they probably did not want to break it, which again makes you reflect on the whole concept of art and it's fragile nature. 
 In addition to the video, Lauria and I tested it again the next weekend at a different location and at a different time. We went to Tompkins Square park in the evening when it was still light out. 
 The results from this day too were better than we anticipated. It was s slow start, but we actually achived our goal at making strangers interact. And this interaction was much longer than we had intended. Instead of just a greeting, groups of strangers spoke for a little longer. To some, it was playful and to some it was interospective. 
