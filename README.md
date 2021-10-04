@@ -172,6 +172,115 @@ So overall, we believe that we succeeded in our goal.
 The entire project was quick and fun. From the time we started to think about what to do, everything was very hands on and that is something I loved, especially after being indoors for a year. There was a flow in all our discussions which made us reach an outcome that we wanted without too much confusion. After the initial testings, we weren't sure about how many people would interact, but we decided to go ahead with the idea anyway, and I am so happy that we did. It turned out to be better than we expected, which was clear from all the interactions on site and iin class. Although I was unable to be physically present for the first testing of the final outcome, I went with Lauria the second time. I am also grateful for having her as a partner and Harpreet as our professor because of how understanding they were through everything. 
 
 
+# Final Project 
+
+## Observation and Tracking exercise 
+
+*Fields of Interst*
+
+Perspectives 
+Animals 
+Illusions 
+Perceptions 
+Connection 
+Senses 
+
+*Some Initial questions*
+
+How do animals experience the world?
+What can we do to make a difference in an animals life?
+How do people experience the world differently?
+
+*Exercise*
 
 
+![IMG_0132](https://user-images.githubusercontent.com/89811894/135936273-183de9c8-8a68-442b-bf8e-f9d18078abe9.jpeg)
 
+![IMG_0133](https://user-images.githubusercontent.com/89811894/135936277-96feb12a-5f2f-42c6-86f0-fbbda4d4528e.jpeg)
+
+In the first tracking question, I just noted down how many dogs and how many birds I saw on my walk to college everyday. I tried to take three different paths each day to get varying results. 
+
+![IMG_0135](https://user-images.githubusercontent.com/89811894/135936286-d287cce8-2564-42a3-a0e9-1840ca3a7b79.jpeg)
+
+![IMG_0140](https://user-images.githubusercontent.com/89811894/135936642-51a617e2-375f-4c93-8732-4326304509d6.jpeg)
+
+![IMG_0141](https://user-images.githubusercontent.com/89811894/135936672-8ba3b432-ed37-4d0c-a880-82409f3d619f.jpeg)
+
+![IMG_0142](https://user-images.githubusercontent.com/89811894/135936685-258d8f13-1ecb-4e79-9274-4e9b6984a588.jpeg)
+
+![IMG_0137](https://user-images.githubusercontent.com/89811894/135936994-937c017d-e236-456c-a187-c7234fec300b.jpeg)
+
+In the second question, I tried to track how many times I hear a dog or a bird, rather than just seeing them. The boxes that respresent birds have coins in them which you shake to hear, and the boxes that represent dogs have tablets. This is just to create a difference in both the sounds. It also made me realise that there are so many things that we don't see visually that are actually present. And finally, through the thirs question, I tried to look at how my roommate and I have completely different class schedules, and then thought about how this effects our day, and in turn our experiences. 
+
+## Initial Research 
+
+*Updated Research Questions*
+
+How do our senses effect the way we percieve the world?
+Can depriving certain senses help enhance others?
+Certain phenomenon like aphakia or synesthesia play a role on perception. How?
+How do animals percieve the world differently than humans?
+
+*Deviate by Beau Lotto*
+
+This book opened up my perspectives and perceptions, and made me question just about everything. There were some parts that I particularly connected with that are relevant to the research I am doing for this project and they visuals are below. 
+
+![IMG_0138](https://user-images.githubusercontent.com/89811894/135937539-04b2099f-ca84-4a43-8e92-c9bf12bc45e0.jpeg)
+
+The above image talks about how we are all on a journey in life, in our own vehicle. So our experiences and realities are dependent on the information that our senses take in, and this differs for every single individual. So no two people have the same idea of reality. 
+
+<img width="295" alt="Screenshot 2021-10-03 at 6 09 14 PM" src="https://user-images.githubusercontent.com/89811894/135937701-d131836e-5db3-4f66-a007-76fbd90e5eff.png">
+
+<img width="342" alt="Screenshot 2021-10-03 at 6 09 28 PM" src="https://user-images.githubusercontent.com/89811894/135937705-20b71b79-c932-4728-b64c-08078b2c9596.png">
+
+<img width="350" alt="Screenshot 2021-10-03 at 6 09 56 PM" src="https://user-images.githubusercontent.com/89811894/135937722-f305c8e6-bafc-4740-8251-d58ad134a65b.png">
+
+<img width="363" alt="Screenshot 2021-10-03 at 6 10 00 PM" src="https://user-images.githubusercontent.com/89811894/135937729-d398dbfe-d9bf-466d-b080-28f22545926d.png">
+
+These images too talk about perceptions and how they can be manipulated. So even things that are not 'real' may seem so to you. 
+
+*Method Cards*
+
+These method cards are just for this stage and I will be using more in the future. 
+
+<img width="913" alt="Screenshot 2021-10-03 at 5 03 49 PM" src="https://user-images.githubusercontent.com/89811894/135938099-0af8a7ab-551a-4bec-b414-613ea3c53fe2.png">
+
+<img width="716" alt="Screenshot 2021-10-03 at 5 23 00 PM" src="https://user-images.githubusercontent.com/89811894/135938135-8c9d3795-af9f-4dd4-81a2-dc65740645f5.png">
+
+In addition to the 5 Why's, I also decided to do 5 How's to gain some clarity myself. 
+
+
+<img width="914" alt="Screenshot 2021-10-03 at 5 04 22 PM" src="https://user-images.githubusercontent.com/89811894/135938196-beb768cf-256f-44f0-9ab7-4b3672a1657c.png">
+
+<img width="854" alt="Screenshot 2021-10-03 at 5 33 50 PM" src="https://user-images.githubusercontent.com/89811894/135938201-ec8d6057-91a4-428f-bacf-855a546eb033.png">
+
+My research until now is mainly based on the topics seen in the flow chart. 
+
+
+<img width="837" alt="Screenshot 2021-10-01 at 1 51 50 PM" src="https://user-images.githubusercontent.com/89811894/135938260-4c1cdd03-14ee-4756-9d7e-2509025d16f8.png">
+
+The first collage is about animal simulators. Many labs and artists have created simulators that allow you to either see, feel ot hear what an animal does. This is to try and empathise with animals. 
+
+<img width="1257" alt="Screenshot 2021-10-04 at 7 36 19 PM" src="https://user-images.githubusercontent.com/89811894/135938416-44f04855-05f9-41a0-b4b6-c25b27a2499f.png">
+
+The second talks a little about how each organism has it's own experiences based on unique traits. It also says, how this experience is just a slice in all of worlds realities. 
+
+<img width="1261" alt="Screenshot 2021-10-04 at 7 38 23 PM" src="https://user-images.githubusercontent.com/89811894/135938621-784a9826-0c10-4862-8af3-6ce6921eb44f.png">
+
+The third collage shows you just two examples out of many, of devices created for people who do not function entirely 'normally'. Some of their senses act differently. 
+
+<img width="1259" alt="Screenshot 2021-10-04 at 7 41 07 PM" src="https://user-images.githubusercontent.com/89811894/135938786-f8e71aea-c749-45d9-8a1a-c6f6c4d7c03f.png">
+
+The fourth one is about how echolocation can be practives by humans and some projects based on that. 
+
+<img width="1253" alt="Screenshot 2021-10-04 at 7 43 05 PM" src="https://user-images.githubusercontent.com/89811894/135938860-a9b622c8-b957-4eed-992d-59c49fa9e544.png">
+
+The fifth one is about UV light. How some animals like birds can see it, how people who have eye surgeries can see small parts of it (ex Monet) and some other more playful projects. 
+
+<img width="1255" alt="Screenshot 2021-10-04 at 7 44 12 PM" src="https://user-images.githubusercontent.com/89811894/135938980-5ce35da1-1358-4762-8112-e9964a573d1b.png">
+
+*Insights Generated* 
+
+There have been many attempts where people try to push boundaries and feel new things. This can be for multiple reasons - to empathise with animals, to become 'super human', to experience the world the way other humans do (if you are differently abled), or many more. 
+From all the examples shown above, I am still unsure if humans can actually understand how animals percieve the world. You can't expect humans to undersatnd how animals feel, simply because of the difference in our senses. 
+I am going to take a step back and first see what makes people empathise with one another, and how long this empathy lasts. 
