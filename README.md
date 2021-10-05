@@ -178,18 +178,8 @@ The entire project was quick and fun. From the time we started to think about wh
 
 *Fields of Interst*
 
-Perspectives 
+Perspectives, Animals, Illusions, Perceptions, Connection, Senses 
 
-Animals 
-
-Illusions 
-
-Perceptions 
-
-Connection 
-
-Senses 
-<div> </div>
 
 *Some Initial questions*
 
