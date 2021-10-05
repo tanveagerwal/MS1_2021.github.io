@@ -189,8 +189,7 @@ Perceptions
 Connection 
 
 Senses 
-
-
+<div> </div>
 
 *Some Initial questions*
 
