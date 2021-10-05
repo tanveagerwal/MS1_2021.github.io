@@ -179,16 +179,23 @@ The entire project was quick and fun. From the time we started to think about wh
 *Fields of Interst*
 
 Perspectives 
+
 Animals 
+
 Illusions 
+
 Perceptions 
+
 Connection 
+
 Senses 
 
 *Some Initial questions*
 
 How do animals experience the world?
+
 What can we do to make a difference in an animals life?
+
 How do people experience the world differently?
 
 *Exercise*
@@ -217,9 +224,13 @@ In the second question, I tried to track how many times I hear a dog or a bird, 
 *Updated Research Questions*
 
 How do our senses effect the way we percieve the world?
+
 Can depriving certain senses help enhance others?
+
 Certain phenomenon like aphakia or synesthesia play a role on perception. How?
+
 How do animals percieve the world differently than humans?
+
 
 *Deviate by Beau Lotto*
 
