@@ -190,6 +190,8 @@ Connection
 
 Senses 
 
+
+
 *Some Initial questions*
 
 How do animals experience the world?
@@ -197,6 +199,8 @@ How do animals experience the world?
 What can we do to make a difference in an animals life?
 
 How do people experience the world differently?
+
+
 
 *Exercise*
 
@@ -230,6 +234,7 @@ Can depriving certain senses help enhance others?
 Certain phenomenon like aphakia or synesthesia play a role on perception. How?
 
 How do animals percieve the world differently than humans?
+
 
 
 *Deviate by Beau Lotto*
