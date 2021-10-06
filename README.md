@@ -289,3 +289,59 @@ The fifth one is about UV light. How some animals like birds can see it, how peo
 There have been many attempts where people try to push boundaries and feel new things. This can be for multiple reasons - to empathise with animals, to become 'super human', to experience the world the way other humans do (if you are differently abled), or many more. 
 From all the examples shown above, I am still unsure if humans can actually understand how animals percieve the world. You can't expect humans to undersatnd how animals feel, simply because of the difference in our senses. 
 I am going to take a step back and first see what makes people empathise with one another, and how long this empathy lasts. 
+
+## Updated Research 
+
+*Revised Questions*
+
+What makes people empathise with another person or organism?
+
+Can you feel like someone else by exchanging a sense?
+
+How do sensory mechanisms work, and can the information obtained through our senses be exchanged?
+
+*Google Empathy Lab*
+
+-	What felt missing to Krettek was consideration of the deeper layers of the human experience. Technology was now with us from sunup to sundown, in increasingly intimate ways. Yet it didn’t feel like it was being designed for all of our “beautifully real, messy human selves.”
+-	Within Google Empathy Lab, which works cross-departmentally at Google in everything from health to AI, researchers care less about what humans do or create, and more about how they feel and their perceptions of the world. As Google Empathy Lab founder Danielle Krettek explained, in order to create technology that appropriately serves humanity, designers must first learn to understand the users they create for.
+-	"Technology tends to think of solving peoples' problems, but we like to look at people not as problems to solve, but as people that are kind of forces unto themselves, being expressed into the world, and how do we kind of show up and meet all of them?"
+-	 In summary, the film is grounded in the concept that our societal roles, and the masks we wear day-to-day, become increasingly burdensome over the course of our lives. Ram Dass’ ultimately embarks on his own personal journey to free himself from the attachments of his ‘somebody-ness,’ which leads him to become the radiat soul he is today, inspiring a new generation.
+	 
+<img width="586" alt="Screenshot 2021-10-04 at 8 28 44 PM" src="https://user-images.githubusercontent.com/89811894/136129352-12ebc1bb-9472-4eda-af39-70d509fa1dbe.png">
+
+![google empathy](https://user-images.githubusercontent.com/89811894/136129403-7af54ef7-abde-4a39-9fd9-77a0a260d7a3.jpg)
+
+
+*Empathy Lab*
+
+-	EmpathyLab is the first organisation to build children's empathy, literacy and social activism through a systematic use of high-quality literature.
+-	Work started with a large cross-disciplinary Think-In at the South Bank Centre, and quickly uncovered that educationalists, academics and authors were as keen as EmpathyLab’s founders to see if stories could be used more deliberately to develop young people’s experience of empathy and their ability to put it into action. 
+-	In Uk there is an empathy lab that starts at a young age, and aims at teaching teachers and other people in childrens life to incorporate empathy at a young age through stories. 
+
+
+*Be Another Lab*
+
+-	interdisciplinary art-science research laboratory dedicated to exploring the relationship between identity and empathy. We develop immersive technology systems to generate new modes of storytelling and to experiment with the perception of self and other.
+-	Embodied Virtual Reality system designed to experience the world from another person's perspective. There were two ways this was done – through a body swap and embodied narratives. 
+-	Neuroscientific research has developed ways to create cognitive illusions, which generate the feeling of having a different body, of being the body of another person.
+-	It is a Body Transfer Illusion. THE MACHINE TO BE ANOTHER.
+-	Embodied VR systems could help to overcome negative stereotyping between groups («intergroup social barriers») and to improve pro-social behaviour by encouraging active perspective-taking, or empathy. Neuroscientists and psychologists commonly define empathy as an individual’s ability to feel another person’s emotional state, while being aware of that feeling’s origin. In this way, empathy is an active perspective-taking, 
+-	BeAnotherLab’s goal is to co-create and apply technoscientific knowledge critically to foster human connection, mutual understanding and kindness.
+-	The virtual headset makes them see someone else’s body and feel like its their own. This can be done to try and feel what differently abled people do, or make differently abled people feel like they are dancing or anything else. 
+-	So in that way it can also help in rehabilitation 
+
+<img width="661" alt="Screenshot 2021-10-05 at 9 57 36 PM" src="https://user-images.githubusercontent.com/89811894/136129478-56f7d55c-9a6c-4a77-ae93-bbff9ed70063.png">
+
+
+*Empathy Lab*
+
+-	This empathy lab has exercises and activities for individuals and teams to learn and be more empathetic. 
+-	Some of the activities revolve around the senses and map them for awareness, grounding and focus. 
+
+<img width="1633" alt="Screenshot 2021-10-04 at 8 53 18 PM" src="https://user-images.githubusercontent.com/89811894/136129530-b401f5ae-3f32-489c-9b19-ef2782eb740f.png">
+
+<img width="1653" alt="Screenshot 2021-10-04 at 8 53 34 PM" src="https://user-images.githubusercontent.com/89811894/136129547-c49fb4f6-d702-44d1-8a32-1859fb6ad40f.png">
+
+
+
+
