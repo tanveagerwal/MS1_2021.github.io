@@ -342,6 +342,112 @@ How do sensory mechanisms work, and can the information obtained through our sen
 
 <img width="1653" alt="Screenshot 2021-10-04 at 8 53 34 PM" src="https://user-images.githubusercontent.com/89811894/136129547-c49fb4f6-d702-44d1-8a32-1859fb6ad40f.png">
 
+*Interviews*
+
+In the interviews, I asked people four questions - 
+1. What makes you empathise with another person?
+2. What makes you empathise with anither organism (plant/animal)
+3. Are there certain sights/smells/sounds/sensations that make you empathise with something or someone else?
+4. Do you think your senses play a role on your empathy? For example, if you were to exchange a sense with someone else, do you think you would empathise with them more?
 
 
+![IMG_0186](https://user-images.githubusercontent.com/89811894/138482537-20fc219d-7c8a-47ef-9b17-a36df1d5a03e.jpeg)
 
+
+![IMG_0185](https://user-images.githubusercontent.com/89811894/138482568-cd7842de-ff9b-4c4a-b04f-e6d3dafd0c69.jpeg)
+
+After taking these interviews I realised that instead of focusing on empathy towards organisms, because most people said that this was inbuilt, and I need to pay more attention on empathy towards other people. 
+Another thing that I was surprised about was the number of people who spoke about sound as a driving force of emapthy. I had thought that people would say it will be sight, since this is generaly very dominant in many of us. So this is why I used sound as a driving force for my coming experiments. 
+
+*Experiments*
+
+1. Exchanging the sense of sound with someone in a different environment. 
+
+I did this experiment with e friend from India. We both sat outside (me in a park and her in her garden) at the same time, so it was night for her and morning for me. We were on a call using headphones, but did not say a word to each other for ten minutes. So for those ten minutes, I was in my environment but hearing hers and vice versa. Another interesting thing that happened during this time was that it was raining in India whereas it was not raining here. 
+
+https://user-images.githubusercontent.com/89811894/138484073-220962a9-5594-4462-a5e5-dbfcd5433ac6.mov
+
+https://user-images.githubusercontent.com/89811894/138484112-2b7f76b1-1db8-4592-91fd-c298637c0ee1.mov
+
+From this experiment, we realised tha since we are freinds, we already are empathetic towards each other. However, i felt more connected to her than she did to me because I was in that environment earlier whereas she has not been in mine. 
+
+2. PLaying sounds to see how people respond to them.
+
+I made three of my classmates listen to certain sounds individually and asked them how they felt about them.
+
+Footsteps - anxious, stressed, annoyed 
+Beep - Alarmed, uncomfortable, excited for food
+Closing door - Scared, neutral, relieved 
+
+From their responses, I realised that the same sound plays out differently is everyones head and that most of the emotions here were negative for everyday sounds. This made me curious and so I asked the next question.
+
+3. Write or draw in one word or image what happiness is to you.
+
+I asked the same three flatmates this question and gave them small sheets of paper and a box of coloured pens. 
+
+![IMG_0220](https://user-images.githubusercontent.com/89811894/138485143-414b39e2-7441-4307-999d-c0af638a0910.jpeg)
+
+The two people who made illustrations did not care which colour they drew with, but the person who wrote the text took some time to pick a colour. This also showed me that there are so many things that can make a person happy. Which made me think, can something that makes me happy, make someone else happy too?
+
+
+## Proposed Research 
+
+*Research questions*
+
+1. Is it possible to make someone happy through someone else’s experiences?
+2. How do I translate happiness through art or design?
+3. How do sounds make people happy?
+4. What roles do colours play on emotions?
+
+*The science of being happy*
+
+Art in any form, whether while creating or observing, reduces the stress hormone called cortisol. It also releases the feel-good hormones called endorphins which help you combat stress and pain. It increases dopamine that leads to positive sensations in us.
+Some exmaples of spaces like these that already exist are paint bars. People go to these places to simply paint and drink. There are also art therapy studios for this task.
+
+![c870x524](https://user-images.githubusercontent.com/89811894/138486670-60333856-4104-4f20-85e5-f1401a3ac079.jpg)
+
+![Paintbar](https://user-images.githubusercontent.com/89811894/138486688-bf150d50-6dfc-4da6-8542-2c84109ccc41.jpg)
+
+
+Another example is how many of us paint our walls at home or make art in our free time to free our mind and feel good. 
+These are some images of what I have done in my room. The process was so theraputic.
+
+![IMG_0274](https://user-images.githubusercontent.com/89811894/138486124-5ac42e9e-9a8d-4f13-9270-d0ca952db8ce.jpeg)
+
+![IMG_5707](https://user-images.githubusercontent.com/89811894/138486173-2ce0e77f-25f0-476a-b2f2-2b9f4bf11fd5.jpeg)
+
+*Installation examples*
+
+Heartfelt was made by Patten Studio. The poles light up when humans touch two or more poles at once, acting like the conductor between them. So to light up more poles, you end up in funny positions or attaching with more people. 
+Project link - https://www.pattenstudio.com/works/heartfelt/
+<img width="1345" alt="Screenshot 2021-10-13 at 4 58 04 PM" src="https://user-images.githubusercontent.com/89811894/138486342-21a9be1f-53f2-4a68-876b-00427ee44164.png">
+
+<img width="1201" alt="Screenshot 2021-10-13 at 4 58 11 PM" src="https://user-images.githubusercontent.com/89811894/138486347-e80bc3fc-4c34-4284-86f3-8d910babd86b.png">
+
+
+This project was called smile. A big smile lit up when you smiled into the smile detecting frame. The idea was the artwork to smile with you. This installation was made by Varvara & Mar.
+Prpject link - https://var-mar.info/smile/
+
+<img width="887" alt="Screenshot 2020-10-21 at 7 53 17 PM" src="https://user-images.githubusercontent.com/89811894/138486602-1761d4e3-c54c-47a0-b2cb-9f6b9d8dad84.png">
+
+<img width="812" alt="Screenshot 2020-10-21 at 7 53 00 PM" src="https://user-images.githubusercontent.com/89811894/138486614-d17ffa51-b135-4656-a9ec-3c1a9b90c6a8.png">
+
+Some more examples include the famour wall where you write what you want to do before you die, the public piano which is placed to spread joy and movies and videos are one of the best examples of how someone else’s experience makes you happy, atleast temporarily. 
+
+<img width="634" alt="Screenshot 2021-10-13 at 4 50 35 PM" src="https://user-images.githubusercontent.com/89811894/138486940-b2265500-fd4a-4939-b3c7-2678616fa069.png">
+
+<img width="679" alt="Screenshot 2021-10-13 at 4 46 45 PM" src="https://user-images.githubusercontent.com/89811894/138486965-6c0ab7ee-4d81-431c-9323-1a8338fd39a9.png">
+
+![feel-good-happy-movies-1581461298](https://user-images.githubusercontent.com/89811894/138486985-3b441064-2ccf-4e5d-a8a2-081dba109575.jpg)
+
+## Proposed project 
+
+How can we make someone happy through another’s experience using art?
+
+There have many artworks that aim on making people happy, there are installations that make people share their experiences with each other, and there are movies that make people happy by showing them a good story. What I want to do lies somewhere in between.
+
+I want to try and make people happy by understanding each other through an art installation. And I want the installation to reflect their experiences. This way, I am showing them that it is possible to be happy in someone else’s vistories, and also shed light on how happiness can be translated through art.
+
+The goal of my project is to find a sort of collective happiness. According to me, this will increase empathy, create a sense of unity, and make people more open to new perspectives. 
+
+This is important because the world is a hard enough place to live in, and we need to understand one another better to reduce conflict. By understanding why someone feels the way they do, we open ourselves to a new perspective. 
