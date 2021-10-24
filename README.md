@@ -361,7 +361,7 @@ Another thing that I was surprised about was the number of people who spoke abou
 
 *Experiments*
 
-1. Exchanging the sense of sound with someone in a different environment. 
+- Exchanging the sense of sound with someone in a different environment. 
 
 I did this experiment with e friend from India. We both sat outside (me in a park and her in her garden) at the same time, so it was night for her and morning for me. We were on a call using headphones, but did not say a word to each other for ten minutes. So for those ten minutes, I was in my environment but hearing hers and vice versa. Another interesting thing that happened during this time was that it was raining in India whereas it was not raining here. 
 
@@ -371,7 +371,7 @@ https://user-images.githubusercontent.com/89811894/138484112-2b7f76b1-1db8-4592-
 
 From this experiment, we realised tha since we are freinds, we already are empathetic towards each other. However, i felt more connected to her than she did to me because I was in that environment earlier whereas she has not been in mine. 
 
-2. PLaying sounds to see how people respond to them.
+- PLaying sounds to see how people respond to them.
 
 I made three of my classmates listen to certain sounds individually and asked them how they felt about them.
 
@@ -381,7 +381,7 @@ Closing door - Scared, neutral, relieved
 
 From their responses, I realised that the same sound plays out differently is everyones head and that most of the emotions here were negative for everyday sounds. This made me curious and so I asked the next question.
 
-3. Write or draw in one word or image what happiness is to you.
+- Write or draw in one word or image what happiness is to you.
 
 I asked the same three flatmates this question and gave them small sheets of paper and a box of coloured pens. 
 
