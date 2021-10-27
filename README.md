@@ -474,3 +474,10 @@ Coming back to topic, the crits thought that my idea of making someone happy thr
 
 To be entirely honest, I am still a little confused on what my research question should be. I will be using this week to talk to more people and do a little more research based on the feedback I received to get there. Although I know that I want me final outcome to show people that there are realities other than their own to stimulate empathy, I am not yet sure about how I am going to do this. I want my project to be a narrative that opens up people to new perspectives. So to figure out how to narrow this down, I am going to see if I can make prototypes for different directions in which my project can go and then pick one.  
 
+## 7 in 7 
+
+*Basis/Intention*
+
+After taking time and reflecting and talking to my Major Studio professor Harpreet, I have decided to make prototypes for shared experiences. In this, I am going to focus on how which sense is dominant in each person, and show them that this might be different for everyone. This is going to be done by having everyones responses in one place, which also makes the art installation complete. The installation will be made by the people who view it, making them feel like they are a part of of something bigger. The underlying goal is for people to unders everyone experiences the world in a unique way, that everything that is 'true' for them is not 'true' for everyone. I do hope that this increases their empathy towards one another, but the process of empathy is something that is also unique and very internal, so that is not the entire focus of this project. 
+So in this week, I am going to prototype different ways to create an interactive installation based on the above context. 
+
