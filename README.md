@@ -481,3 +481,13 @@ To be entirely honest, I am still a little confused on what my research question
 After taking time and reflecting and talking to my Major Studio professor Harpreet, I have decided to make prototypes for shared experiences. In this, I am going to focus on how which sense is dominant in each person, and show them that this might be different for everyone. This is going to be done by having everyones responses in one place, which also makes the art installation complete. The installation will be made by the people who view it, making them feel like they are a part of of something bigger. The underlying goal is for people to unders everyone experiences the world in a unique way, that everything that is 'true' for them is not 'true' for everyone. I do hope that this increases their empathy towards one another, but the process of empathy is something that is also unique and very internal, so that is not the entire focus of this project. 
 So in this week, I am going to prototype different ways to create an interactive installation based on the above context. 
 
+
+*Day 1*
+
+On the first day, I did a material exploration where I played around with buttons to see how they light up and how the switch in the button works. This was to move forward to day 2 so I could make them work in a way that I want. 
+
+
+
+https://user-images.githubusercontent.com/89811894/139970366-6f72112f-ed75-4a7b-82a6-c99a2609c2e6.mov
+
+
