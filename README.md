@@ -486,8 +486,44 @@ So in this week, I am going to prototype different ways to create an interactive
 
 On the first day, I did a material exploration where I played around with buttons to see how they light up and how the switch in the button works. This was to move forward to day 2 so I could make them work in a way that I want. 
 
+https://youtu.be/ou-QLLOLevE
 
+As seen in the video, I failed many times before I got the button to light up only when pressed. One of the buttons even short circuted in the process since they were all directly connected to a battery. 
+Then I drew a sketch that would help me understand the connections the next day. 
 
-https://user-images.githubusercontent.com/89811894/139970366-6f72112f-ed75-4a7b-82a6-c99a2609c2e6.mov
+![IMG_0674](https://user-images.githubusercontent.com/89811894/139971176-3c2c05f2-846b-44ce-9bcd-93f3bae70a7a.jpeg)
+
+*Day 2* 
+
+First I took a cardboard box and cut it, then made holes for the five buttons and inserted them.
+![IMG_0649](https://user-images.githubusercontent.com/89811894/139979174-e333a94d-eb89-4e24-b8b3-72da38ddd0ed.jpeg)
+
+![IMG_0650](https://user-images.githubuserco![IMG_0652](https://user-images.githubusercontent.com/89811894/139979244-e9a8e66d-cc63-493d-9685-8d90cd6e7263.jpeg)
+
+ntent.com/89811894/139979203-f1077b09-f948-4f8f-8150-a5fe3a8a7730.jpeg)
+
+Then I soldered the wires to the pins of the buttons and connected them to try and make them work. There were many issues while doing this since at first, the buttons were not lighting up sometimes and then all of them lit up when one button was pressed instead of one at a time. 
+
+![IMG_0654](https://user-images.githubusercontent.com/89811894/139986267-eab9bc78-64dc-4bbe-a265-e0c29b2b69c0.jpeg)
+
+https://youtu.be/b9e6gqJCnNM
+
+So the first few tries failed, and then a kind 2nd year student helped me by drawing out a diagram to explain the connection required. 
+
+![IMG_0663](https://user-images.githubusercontent.com/89811894/139989127-f7ed336c-5481-4a54-893b-89ff8484ef84.jpeg)
+
+Then I changed my connections according to the diagram and it worked! Instead of connected all the wires to the negative and positive of the battery, I connected the switches negative to the led's positive and the negative to the batteries negative. This way, the connections were all independent. 
+
+https://youtu.be/J-zVh5gLBpA
+
+While experimenting with this, some people passing by asked what this was for and pressed the button corresponding to the sense they feel is their strongest. Red was for sound, white for sight, green for smell, blue for touch and yellow for taste. 
+
+![IMG_0666](https://user-images.githubusercontent.com/89811894/139997984-687d927e-a479-4043-b43a-be4f92e8ece1.jpeg)
+
+![IMG_0672](https://user-images.githubusercontent.com/89811894/139998017-a4982410-b1f0-408e-a498-434457be27bb.jpeg)
+
+![IMG_0671](https://user-images.githubusercontent.com/89811894/139998053-f66219b9-ddbc-464c-92d2-7df43cb5bf67.jpeg)
+
+![IMG_0673](https://user-images.githubusercontent.com/89811894/139998093-72342aa8-05d0-479e-bb36-da92e49cd40c.jpeg)
 
 
