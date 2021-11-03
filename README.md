@@ -500,8 +500,6 @@ First I took a cardboard box and cut it, then made holes for the five buttons an
 
 ![IMG_0650](https://user-images.githubuserco![IMG_0652](https://user-images.githubusercontent.com/89811894/139979244-e9a8e66d-cc63-493d-9685-8d90cd6e7263.jpeg)
 
-ntent.com/89811894/139979203-f1077b09-f948-4f8f-8150-a5fe3a8a7730.jpeg)
-
 Then I soldered the wires to the pins of the buttons and connected them to try and make them work. There were many issues while doing this since at first, the buttons were not lighting up sometimes and then all of them lit up when one button was pressed instead of one at a time. 
 
 ![IMG_0654](https://user-images.githubusercontent.com/89811894/139986267-eab9bc78-64dc-4bbe-a265-e0c29b2b69c0.jpeg)
