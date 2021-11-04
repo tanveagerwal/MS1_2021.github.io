@@ -525,3 +525,22 @@ While experimenting with this, some people passing by asked what this was for an
 ![IMG_0673](https://user-images.githubusercontent.com/89811894/139998093-72342aa8-05d0-479e-bb36-da92e49cd40c.jpeg)
 
 
+*Day 3* 
+
+On this day, I prototyped the possible look and feel this particular idea would have.
+
+![Day 3- 1(7 in 7)-01](https://user-images.githubusercontent.com/89811894/140380418-22ad44d5-8c66-4ed0-9278-eab059efe479.png)
+
+The first one is with many of the buttons on a wall with the key on top, saying which colour represents which sense. Also the question 'Which sense do you rely on?' written on the cieling. There are 360 buttons in total and 72 for each sense. So this way a lot of people can ineteract with it, leaving the light on, so that even others can see how people sense the world, and hopefully understand that everyone experiences the world in a unique way.
+
+![Day 3-2 (7 in 7)-02](https://user-images.githubusercontent.com/89811894/140380992-229d9417-e0a6-4ad5-8a88-eea8aeddc64a.png)
+
+The second option was to have multiple pillars and the buttons on the pillars so that people could walk through the space. Although it looks like there's a pattern for the buttons on the pillars, I want them to be quite random. The question and key here will be on a large wall in the space.
+
+![Day 3-3 (7 in 7)-03](https://user-images.githubusercontent.com/89811894/140381186-1962583b-dbba-4e99-9d84-fadde8107dc3.png)
+
+The third option is to have a big cylindrical like shape and then have all the buttons inside the space so people will walk in be surrounded by the lights. In this case, the question and key will be written on the floor. 
+
+
+
+
