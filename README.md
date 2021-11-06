@@ -542,5 +542,39 @@ The second option was to have multiple pillars and the buttons on the pillars so
 The third option is to have a big cylindrical like shape and then have all the buttons inside the space so people will walk in be surrounded by the lights. In this case, the question and key will be written on the floor. 
 
 
+*Day 4* 
 
+Today I started a prototype of a new iteration. The first step was to prototype coloured ball like shapes in different colours and make them so that they could be hung on a hook. 
+So I used paper, coloured it into the same colours as the earlier prototype and then just crushed them to make the balls. Then I stitched thread onto all of them of the colour corresponding to the ball itself to make it 'hangable'. 
+
+https://user-images.githubusercontent.com/89811894/140592539-8d0dafba-ba8d-4cd3-9367-40e9f9995cfc.mov
+
+![IMG_0742](https://user-images.githubusercontent.com/89811894/140592544-c582a6af-d7e0-4019-8e41-0d5692ec6e4c.jpeg)
+
+![IMG_0743](https://user-images.githubusercontent.com/89811894/140592547-5a250d33-43fb-49f1-8395-daa5b97deb0c.jpeg)
+
+![IMG_0761](https://user-images.githubusercontent.com/89811894/140592552-6682a9b8-c613-4877-9852-46120e9c6a00.jpeg)
+
+This was really fun because it almost felt theraputic to colour and crush paper. Even the stitching part was fun because it's oddly satisfying in a way I never thought of before. 
+
+
+*Day 5*
+
+This days prototype was structural, to incorporate the previous day's ball prototypes. I had initially thought about making boxes for the balls, but since they could hang on something, I decided to do something that would take up lesser space and where eveything could be together. I used a cardvoard box and some chopsticks to do this. 
+
+![IMG_0763](https://user-images.githubusercontent.com/89811894/140592661-ab801827-8cb8-4c63-93ff-0d4d0fb59260.jpeg)
+
+![IMG_0764](https://user-images.githubusercontent.com/89811894/140592666-d4d94f09-a350-47e0-9cb7-2658a0d2a275.jpeg)
+
+![IMG_0765](https://user-images.githubusercontent.com/89811894/140592667-2075b2da-e160-4b2f-b83f-17c9820d5f55.jpeg)
+
+![IMG_0766](https://user-images.githubusercontent.com/89811894/140592671-ba7c5e2f-29d8-414b-ad1d-c70f6fadafc5.jpeg)
+
+Then I made something that the balls could hang on. So I used styrofoam and wireframes to make the cieling and hooks respectively. 
+
+![IMG_0767](https://user-images.githubusercontent.com/89811894/140592705-0c8a7062-cb3e-4d82-9263-14ae4ac726a1.jpeg)
+
+![IMG_0768](https://user-images.githubusercontent.com/89811894/140592714-18e445ba-4c0f-479f-be20-552aca4aa43a.jpeg)
+
+![IMG_0770](https://user-images.githubusercontent.com/89811894/140592718-538139d6-a6b5-4f5e-8401-81206aa3ff36.jpeg)
 
