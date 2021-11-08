@@ -493,6 +493,8 @@ Then I drew a sketch that would help me understand the connections the next day.
 
 ![IMG_0674](https://user-images.githubusercontent.com/89811894/139971176-3c2c05f2-846b-44ce-9bcd-93f3bae70a7a.jpeg)
 
+After playing around with this, I understood how little I actually know about electrical circuits theoreically and how I always just know what works and what doesn't by actually trying different things. Like in this prototype I basically made all the possible connections before reaching one that actually worked. This is also a huge reason why this assignment is helpful. I got more perspective on how important it is to actually 'do'.
+
 *Day 2* 
 
 First I took a cardboard box and cut it, then made holes for the five buttons and inserted them.
@@ -524,6 +526,8 @@ While experimenting with this, some people passing by asked what this was for an
 
 ![IMG_0673](https://user-images.githubusercontent.com/89811894/139998093-72342aa8-05d0-479e-bb36-da92e49cd40c.jpeg)
 
+What I understood through this prototype is how much people are attracted to lights and digital technology. Also that when people see you work on something physical, they get more interested than watching you work on your laptop, this is probably for many reasons, but one of the reasons according to me is also that this is just more fun!
+
 
 *Day 3* 
 
@@ -541,6 +545,8 @@ The second option was to have multiple pillars and the buttons on the pillars so
 
 The third option is to have a big cylindrical like shape and then have all the buttons inside the space so people will walk in be surrounded by the lights. In this case, the question and key will be written on the floor. 
 
+Some of these looks were inspired by talking to people the previous day about the project. They helped me think more spatially, which is something I really was trying to do but was stuck. By making the above prototypes, I also understand the scale I want the project to be at and how many peope are able to interact with it. It also gave me a sense of colour better and thats why I decided to go with dark walls instead of white walls, I think this may look more interesting (also because white is one of the colours of the buttons).
+
 
 *Day 4* 
 
@@ -555,7 +561,7 @@ https://user-images.githubusercontent.com/89811894/140592539-8d0dafba-ba8d-4cd3-
 
 ![IMG_0761](https://user-images.githubusercontent.com/89811894/140592552-6682a9b8-c613-4877-9852-46120e9c6a00.jpeg)
 
-This was really fun because it almost felt theraputic to colour and crush paper. Even the stitching part was fun because it's oddly satisfying in a way I never thought of before. 
+This was really fun because it almost felt theraputic to colour and crush paper. Even the stitching part was fun because it's oddly satisfying in a way I never thought of before. Again, what I had planned changed constanty while working, like the way to stitch the thread to make a handle. 
 
 
 *Day 5*
@@ -577,4 +583,27 @@ Then I made something that the balls could hang on. So I used styrofoam and wire
 ![IMG_0768](https://user-images.githubusercontent.com/89811894/140592714-18e445ba-4c0f-479f-be20-552aca4aa43a.jpeg)
 
 ![IMG_0770](https://user-images.githubusercontent.com/89811894/140592718-538139d6-a6b5-4f5e-8401-81206aa3ff36.jpeg)
+
+Making these was also fun because I realy enjoy working hands on and it makes you understand the structure a lot better this way than any other way.
+
+
+*Day 6*
+
+The first thing I decided to do was to see how people respond to the previous days prototype. So I fixed this in the common room in our apartment and let it stay there until the next day. I hung two balls when I set it up, just so that people would understand what they were supposed to do. 
+
+![IMG_0817](https://user-images.githubusercontent.com/89811894/140666622-42a476e6-0115-4a20-9357-110cc4423f96.jpeg)
+
+![IMG_0818](https://user-images.githubusercontent.com/89811894/140666638-a9868d41-e61f-413d-80fb-3ed0a7d5a157.jpeg)
+
+![IMG_0816](https://user-images.githubusercontent.com/89811894/140666639-47f0ab22-d622-4f4e-a733-9f3aaa2454ef.jpeg)
+
+After this I decided to play around with an LED to see different ways in which I can make it light up. I started off by using everything metal I could find in my room, wireframe, my watch, water bottle, for some odd reason my laptop, copper wire, etc. The last two did not work. 
+Then I tried to use my own body as a condutor, which I have seen work before but it didn't work no matter how many times I tried this time. Then I tried using two batteries, the positive of one and negative of another, but this didn't work either, which makes total sense to me now but I did think that it would work. 
+Finally, I tried using liquid. Water didn't make the led light up but salt water did. 
+
+https://youtu.be/b9S4SUNEESM
+
+This day just taught me a lot of the basics that I needed to know. It also made me realise that it may not be possible for me to make what I was thiking because I wanted to put lights inside the balls and make them light up as soon as they're hung. The way I thought it would work will not work and I know that now, so I have to explore more options if I decide to go ahead with this idea. 
+
+
 
