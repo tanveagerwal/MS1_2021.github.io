@@ -606,4 +606,18 @@ https://youtu.be/b9S4SUNEESM
 This day just taught me a lot of the basics that I needed to know. It also made me realise that it may not be possible for me to make what I was thiking because I wanted to put lights inside the balls and make them light up as soon as they're hung. The way I thought it would work will not work and I know that now, so I have to explore more options if I decide to go ahead with this idea. 
 
 
+*Day 7* 
 
+I started the day by looking at how people responded to me prototype in the common room. 
+
+![IMG_0850](https://user-images.githubusercontent.com/89811894/140667665-dbbcea69-1a6e-4403-a6f1-6ada58062ad3.jpeg)
+
+Although the response wasn't as much as I would have liked it to be, it was not bad either. Not too many people use it everyday and people still understood what to do. I also learned that this is a little like a data collection excercise. 
+
+For the final prototype, I decided to record some of the sounds I hear everyday. This was just for me to understand myself better to see which sense I rely on the most. I had thought it was first vision, then I thought that it may be sound, so I tried to record sounds that I hear daily. I also wanted to see if it's going to be possible to incorporate sound into the final installation. 
+
+https://youtu.be/t4nzeu_OC_U
+
+The audio consists of things like openeing and closing doors, knocks, perfume noises, my bottle noise, and just very basic things. 
+
+What I realised after making this was that even the slight changes that come with digitising the sounds make them sound different and there are many things that even I didn't recognise even though I hear these things everyday. They sounded a little different than normal. Another thing that I realised is that when you hear a sound, you immediately try to connect it to something from your own expereinces. It becomes almost vital for you to know exactly what that sound is. 
