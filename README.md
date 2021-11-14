@@ -621,3 +621,14 @@ https://youtu.be/t4nzeu_OC_U
 The audio consists of things like openeing and closing doors, knocks, perfume noises, my bottle noise, and just very basic things. 
 
 What I realised after making this was that even the slight changes that come with digitising the sounds make them sound different and there are many things that even I didn't recognise even though I hear these things everyday. They sounded a little different than normal. Another thing that I realised is that when you hear a sound, you immediately try to connect it to something from your own expereinces. It becomes almost vital for you to know exactly what that sound is. 
+
+
+## Prototype 1
+
+Although loneliness is the feeling of being alone, it can still feel different to different people. Some people may even feel it around people that they love and find comfort around. This is why I feel that feeling lonely is not something that you can escape or just stop feeling if you want, rather, you have to find comfort in your loneliness and be okay or even happy being and feeling alone. 
+I also find a beautiful irony in the concept of loneliness. We are all born alone, go through life alone, and eventually pass alone too; so why do we feel lonely when we’re alone? Anyway, what I am trying to do through this project is help people find comfort in being lonely, not escape the feeling or stop feeling that way, because I know this easier said than done. 
+The question I am going to be asking is, is there anything that gives you comfort when you feel lonely? If yes, what is it? 
+Personally there are many things that give me comfort, like going for a walk, eating the food that I like, looking at old pictures of me smiling (this one might be a little strange), painting or doing a craft, or even just taking a shower. 
+There have been many art projects in the past that highlight the feeling of loneliness, and many other efforts to help people who do feel lonely, what I am proposing lies in between the two, it’s about finding comfort or peace in isolation. The project is mainly aimed at students or young people who have left home to pursue their dreams, but can also be experienced by anyone who feels lonely. For this reason, a public place like a park seems like the perfect spot because of the number of people who go there.
+I plan to make a multisensorial space where people come and either share something that makes them feel comfort, or feel the comfort themselves. 
+
