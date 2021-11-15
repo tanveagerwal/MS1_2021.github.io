@@ -632,3 +632,14 @@ Personally there are many things that give me comfort, like going for a walk, ea
 There have been many art projects in the past that highlight the feeling of loneliness, and many other efforts to help people who do feel lonely, what I am proposing lies in between the two, it’s about finding comfort or peace in isolation. The project is mainly aimed at students or young people who have left home to pursue their dreams, but can also be experienced by anyone who feels lonely. For this reason, a public place like a park seems like the perfect spot because of the number of people who go there.
 I plan to make a multisensorial space where people come and either share something that makes them feel comfort, or feel the comfort themselves. 
 
+
+*Conceptual Storyboard*
+
+The story board represents the fact that people will start to feel more comfort in being alone by doing small things like eating ice cream or sleeping with a toy or a pillow. 
+I think we are trained to accept blue as being lonely and a warm colour like orange for comfort. That is why I have decided to use those colours in the representation here. 
+
+![storyboard](https://user-images.githubusercontent.com/89811894/141706239-7e6f0446-85e2-40a3-8080-2e23d0757242.png)
+
+
+
+
