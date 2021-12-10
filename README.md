@@ -778,7 +778,8 @@ This was really fun because I used a nail gun for the first time! After this, I 
 Finally, I took it to our campus and painted it. This was definitely not well though out because I wanted it after adding buiding the while structure when I should have done that first. So although, painting it was difficult, it was also an experience because of the different angles I had to turn in. 
 I decided to use three colours and a plant-like look because that is something that personally brings me comfort. 
 
-![bdf41818-00db-4eba-865b-572b5f159df8](https://user-images.githubusercontent.com/89811894/145635706-726fa248-d826-47f5-9a38-d3c97217f8e5.jpg)
+<img width="507" alt="Screenshot 2021-12-10 at 3 17 39 PM" src="https://user-images.githubusercontent.com/89811894/145636131-468ed401-ff88-431c-ba9f-a9e99e2c998b.png">
+
 
 The reason it is placed near the window is because many at times, while working, one tends to look outside the window. So now, when someone wants to look out, this is what they will see. 
 
