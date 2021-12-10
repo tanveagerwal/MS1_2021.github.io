@@ -625,6 +625,13 @@ What I realised after making this was that even the slight changes that come wit
 
 ## Prototype 1
 
+*Feedback*
+
+From the feedback that I received, I knew that I had to narrow down on a certain experience. This was really helpful because I was pretty lost. 
+So I decided to go with the feeling of loneliness, because it’s an overwhelming feeling for many people that I am talking to right now.
+
+*Statement*
+
 Although loneliness is the feeling of being alone, it can still feel different to different people. Some people may even feel it around people that they love and find comfort around. This is why I feel that feeling lonely is not something that you can escape or just stop feeling if you want, rather, you have to find comfort in your loneliness and be okay or even happy being and feeling alone. 
 I also find a beautiful irony in the concept of loneliness. We are all born alone, go through life alone, and eventually pass alone too; so why do we feel lonely when we’re alone? Anyway, what I am trying to do through this project is help people find comfort in being lonely, not escape the feeling or stop feeling that way, because I know this easier said than done. 
 The question I am going to be asking is, is there anything that gives you comfort when you feel lonely? If yes, what is it? 
@@ -639,6 +646,146 @@ The story board represents the fact that people will start to feel more comfort 
 I think we are trained to accept blue as being lonely and a warm colour like orange for comfort. That is why I have decided to use those colours in the representation here. 
 
 ![storyboard](https://user-images.githubusercontent.com/89811894/141706239-7e6f0446-85e2-40a3-8080-2e23d0757242.png)
+
+Another lens that I started looking at this was from a mother's when her children eventually grow up and leave. The story board for this is below. 
+
+![storyboard2](https://user-images.githubusercontent.com/89811894/145628823-1f5c3432-2468-47fa-809b-917a8d2afab4.png)
+
+After making these storyboards, I spoke to my roommate about what loneliness felt like to her and what she did to find comfort. 
+
+https://user-images.githubusercontent.com/89811894/145630290-c91c3c9b-5a0f-48c8-b922-3e5664a19b41.mp4
+
+Other than her, no one else was willing to talk about what loneliness felt like to them. This made me realise how deep and impactful this feeling is and how most people don't like to open up about it, mostly because they probably don't want to feel that vulnerable. Not only did I ask people I just met a few months ago, I also asked my best friend and people I;ve known for over 10 years. However, they chose not to talk about it either. 
+This is when I realised that in my project, I would only look at what made people feel better, rather than how they felt. 
+This leads me into the next part of my project, which is the second prototype. 
+
+## Prototype 2
+
+*Research* 
+
+When I spoke to people about what made them feel comfort when they were feeling low or lonely, the most most common answers that I got were, food and music. So I further decided to look into that. 
+
+Comfort in music - Music is something that influences our mood at a subconscious level. If you are listening to an upbeat or uplifting song, it is highly likely for you to start feeling that way. The same way, if you are listening to a melancholy song, you eventually start feeling that way. Music in many ways reflects your emotions and has the power to change them. Another power that music has, is to connect people. Everyone feels connected to their music when they’re listening to it, and when you find someone else listening to the same song, you connect with them too. This is probably why most social settings that require you to connect with another person generally have music running in the background; and people with similar taste in music feel like they have a better bond than with people who like different music.
+Since feeling a certain connection is at the very center of the feeling of empathy, it can be assumed that music triggers an empathic process. Listening to comforting music provides a sense of empathetic company, and since empathy is inversely proportional to loneliness, as suggested earlier, listening to music results in reduced loneliness and heightened empathy. Some papers also suggest the idea of music as a social surrogate. They say that music can convey the sense of the presence of another person and that listeners automatically and unconsciously conceive music as expression of a state of mind of an imagined person. Music also brings in nostalgia and is highly connected to memories, so it has the power to bring back memories of people that we love, the sentiment we feel when we are with them and makes us feel more connected to them. A very basic example of this would be, when you are listening to your dads favourite song, you remember when you heard it together, how you felt at that time, and you feel more connected to your dad in that moment. This may also cause you to eventually call him soon after because you miss him. 
+The above suggests that music creates a form of connection, and also that it can reduce the feeling of loneliness by acting as a social surrogate. Studies prove this by showing that participants report to feeling less lonely after listening to their own music regardless of their mental state and that even listening to distracting music, which is essentially any music that’s not their music i.e their comfort music, reduces the feeling of loneliness equally. Because of all the above evidence, I decided to use music in my artwork to make people feel comfort in their loneliness. It will not only make them feel connected themselves, to people from their own lives and also with new people. 
+
+Comfort in food - Food is also something that influences our mood at a subconscious level. When you do not eat food at the right time or do not eat food that satisfies your cravings, you start to feel frustrated. When you have a bad day or due to an inconvenience of any kind, you lean towards eating your ‘comfort foods’. Some studies say that parts of the brain respond to loneliness a lot like they respond to hunger, and comfort food provides something social to us. The explanation for this is that our brain thinks of social interaction as a basic need the same way food is a basic need for our body, so in the study, the participants neurological responses cues for being alone and being hungry were similar. This is probably why individuals who are alone eat more comfort foods. 
+It has also been reported that eating certain foods can lead to the release of trace amounts of mood enhancing opiates and the consumption of sweet, high calorie foods is linked to the release of opiates and serotonin. After talking to many people and taking a survey about peoples’ comfort foods, it was almost clear that the above holds true. In addition to sweet and high calorie foods, people also spoke about food that could be linked to their childhood, culture and food that you eat when you are sick, suggesting that the memories linked to these foods, of someone taking care of them also played a role in what was considered to be comfort food. 
+
+After doing the above research, I took a small survey where I asked people about their comfort foods. 
+
+<img width="278" alt="Screenshot 2021-11-22 at 6 51 12 PM" src="https://user-images.githubusercontent.com/89811894/145631578-0686da19-d27f-4fed-b9cc-12eb746be708.png">
+
+
+*Artist Precedents* 
+
+*I Heard There Was A Secret Chord*
+
+The above experience was a musical humming experience that aimed at uniting people through the vibrations of sound. It was created by Mouna Androas and Melissa Mongiat, who are cofounders of Montreal design studio. 
+The installation is at the Musee d’art contemporain de Montreal and consists of a platform, microphones, speakers and soft lighting to portray a calm setting. It shows you the number of people listening to Leanord Cohen’s version of the song Hallelujah in real time and allows participants to hum along together. This first time I heard the result of the experience, it felt like I was there with all those people. That is why I chose this as a precedent for my work. The emotions I felt and saw my classmates feel as soon as this work was shown to us, is what I wish to achieve through my project. It was a feeling of comfort and warmth and togetherness. It translated the feeling of strength, of embracing oneself, and hope. 
+
+![3](https://user-images.githubusercontent.com/89811894/145631693-4f096057-1ba1-420c-8221-c05311e802fa.jpg)
+
+![3588](https://user-images.githubusercontent.com/89811894/145631704-24f4035d-26d3-47c7-b3e5-0ee386458b3c.jpg)
+
+
+*Finding Comfort*
+
+This is the first installment of the Hope Storytelling Project in partnership with the Cambridge Public Library and the Las Vegas-Clark County Library District to create a community through poetry, to combat the feelings of loneliness. After the pandemic hit, the feeling of loneliness increased tremendously due to the circumstances and this platform was to give them a safe space to address their feelings. They designed workshops to utilize poetry as a way to heal and reflect.
+In Finding Comfort, which is the first part of a five part project, participants spoke about the childhood, memories about loved ones and what they missed during the pandemic. They also eventually looked at poems and wrote their own.
+This project seems simple but is effective. Earlier, we spoke about empathy and how that impacts loneliness. So by connecting people and having a creative outlet like poetry, you are bound to empathise with others, hence lowering your loneliness and theirs. I also believe that poetry allows people to be vulnerable in a way that is not easy otherwise, and that is why I chose this as a precedent. 
+
+
+*How to Feed an AI*
+
+This was a ‘low key’ dinner gathering by Xiaowei R.Wang that combined the ideas of meditation and eating. The invite was very poetic, some of the verses were – “ we will meditte on the work of eating, the spoon that is not ours, and the pleasures of the present. We will eat because the only thing that stays is he trace of happiness. To sit and eat is enough.”
+The work talks about the issues with work like and how the problems aren’t just due to new ai, and the main issue is working for others rather oneself. It talks about how the creative satisfactions that came along with work are now gone by quantifying work.
+
+<img width="731" alt="Screenshot 2021-11-29 at 12 10 54 AM" src="https://user-images.githubusercontent.com/89811894/145631877-c93d0796-1401-4cf8-b699-8c96d6952f0c.png">
+
+The dinner also included a menu with not just the ingredients, but also versus to make you think about being grateful and mindful.[10] The whole experience was a combination of food and poetry and brought people together to build a space that gave out good vibes and energies. This is what drew me to this work. 
+
+<img width="730" alt="Screenshot 2021-11-29 at 12 11 05 AM" src="https://user-images.githubusercontent.com/89811894/145631911-ee28d919-a81a-404e-bcf2-695496d035d5.png">
+
+Based on the information gathered above, I made three prototypes:
+
+*One*
+
+In the first one, I laid out food based on the answers I got when I spoke to people on a park bench and labeled it comfort pantry.
+
+![IMG_1090](https://user-images.githubusercontent.com/89811894/145632235-fbf8ba62-79bd-4bd8-8632-31c425636a0d.jpeg)
+
+![IMG_1091](https://user-images.githubusercontent.com/89811894/145632238-5fce5ad7-6fd8-47f7-8cdd-70eb61acd6a7.jpeg)
+
+![IMG_1092](https://user-images.githubusercontent.com/89811894/145632256-13df2fd1-a797-40c2-9a54-00b3ca41f643.jpeg)
+
+![IMG_1093](https://user-images.githubusercontent.com/89811894/145632262-7917760a-bee2-4aba-b138-ffb60616f236.jpeg)
+
+I also wrote down some poems by other people on loneliness for people to be able to connect to the concept a little bit. In addition to this, I left space for people to write down their own thoughts. 
+
+![IMG_1094](https://user-images.githubusercontent.com/89811894/145632423-db8a648a-7eb2-4dd3-87e9-3ad3bac4e930.jpeg)
+
+![IMG_1095](https://user-images.githubusercontent.com/89811894/145632432-df4c35df-d561-43ad-b78f-f9103e7f3329.jpeg)
+
+I left the whole setup for about 30 minutes and then came bck to it to see that someone had actually picked up a packet. However, they did not leave any other note behind. 
+
+![IMG_1096](https://user-images.githubusercontent.com/89811894/145632568-01b90055-444e-4f10-8270-2306dd12e498.jpeg)
+
+I then had to take everything and leave since the wind started to pick up and many things started flying around. 
+This prototype thought me many things. For starters, considering the current weather, I needed to shift indoors. I also needed to give the whole setup a little more structure and maybe some instructions for people to understand it better for a better interaction. I also realised that the there I couldn't keep unpackaged things out and nothing that goes into the fridge because that would get spoiled easily, and finally, I learned that people do respond to food so that is a goodplace to start. 
+
+*Two*
+
+The second prototype I did was based on 'I heard there was a secret chord' which is mentioned above. At a friendsgiving dinner, where everyone brought in some food, I told two people about the idea. One person on the table with me and one person who was taking the video. We decided to hum silent night, since it went with the vibe or christmas and it was something that most people were likely to know. 
+
+https://youtu.be/4K8FrOxSto8
+
+Through this, I found out that although some people just went with the flow, it also made some people uncomrtable. And this was something I definietly did not want to do.
+
+*Three*
+
+For the third prototype I tried the same humming idea on the subway. I thought that maybe people would be more comftable to do that in a space where they don't know anyone else.
+
+![IMG_1231](https://user-images.githubusercontent.com/89811894/145633866-a7955d23-ea9f-4a3c-a584-b350d73ceb82.jpeg)
+
+However, this failed for so many reasons. First, no one can hear you properly, second, even if they do hear you, they just don't care. So after this, I decided that for my final, I wanted to do something in a more controlled environment. 
+
+## Prototype 3 
+
+*Feedback from prototype 2* 
+
+The feedback I got from my class was extremely helpful. They told me to focus a little more on the poetry and food and make a structure for it with a payment system. After this, I decided to make something for our campus, with notes as a payment system and with hope to expand this further. 
+I also got a reference, Little Free Library, was was very helpful. This was started up by Todd Bol because his mother passed away and she used to love to read. Since then, it expanded into something that exists in many places and is widely used. It aimed to build a community, inspire readers and increase book access. Many of this was also in my goals, so this seemed like the perfect precedent. 
+
+<img width="588" alt="Screenshot 2021-12-07 at 5 35 17 PM" src="https://user-images.githubusercontent.com/89811894/145634476-0f05f3db-92ad-404f-8d7b-ae2443efeb90.png">
+
+The above is just a representation of how abundant it is just in New York, but it is present all over the country.
+
+![StuyTown-Little-Library-Front-View_1000x666px](https://user-images.githubusercontent.com/89811894/145634544-cc809159-c071-45d7-8227-b4e70b748f22.jpg)
+
+The wooden feel of it is something else that I wanted to incorporate in my project because it gave me a sense of warmth. 
+
+*Making*
+
+To build the structure, I used pine wood that was a 4x4 feet sheet and cut it into four rectangular sections. Then I created a pillar like structure with one side left open.
+
+![IMG_1368](https://user-images.githubusercontent.com/89811894/145635379-9c633fba-94d5-4dc2-9081-b6e8c5e47ea7.jpeg)
+
+This was really fun because I used a nail gun for the first time! After this, I realised that the structure wasn't string enough and needed some support. So I added some columns inside. 
+
+![IMG_1369](https://user-images.githubusercontent.com/89811894/145635481-61938635-d7da-4ae6-81da-f644768076ba.jpeg)
+
+Finally, I took it to our campus and painted it. This was definitely not well though out because I wanted it after adding buiding the while structure when I should have done that first. So although, painting it was difficult, it was also an experience because of the different angles I had to turn in. 
+I decided to use three colours and a plant-like look because that is something that personally brings me comfort. 
+
+![bdf41818-00db-4eba-865b-572b5f159df8](https://user-images.githubusercontent.com/89811894/145635706-726fa248-d826-47f5-9a38-d3c97217f8e5.jpg)
+
+The reason it is placed near the window is because many at times, while working, one tends to look outside the window. So now, when someone wants to look out, this is what they will see. 
+
+
+
+
+
 
 
 
