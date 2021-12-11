@@ -783,9 +783,96 @@ I decided to use three colours and a plant-like look because that is something t
 
 The reason it is placed near the window is because many at times, while working, one tends to look outside the window. So now, when someone wants to look out, this is what they will see. 
 
+After building the structure, I added the most essential factor, food. The first batch of food that I added had some poetry written on it. 
+
+![IMG_1386](https://user-images.githubusercontent.com/89811894/145658621-1355fa04-33be-4018-a349-664e23b22f7b.jpeg)
+
+In addition to the food and poetry, there are two wooden slabs. One reads out the name of the piece and has a few instructions like - payment - write a note for someone feeling lonely. The idea is that eventually, there will be many notes for people to read so the poems on the food won't be required. And fortunately, this is exactly what happened. 
+Each day more and more notes started coming up, and some people even left food once or twice. 
+
+ ![IMG_0696](https://user-images.githubusercontent.com/89811894/145658740-bc66a0e4-eaae-4a60-ad09-39d5338f299f.jpeg)
+
+ ![IMG_1432](https://user-images.githubusercontent.com/89811894/145658757-a08a261b-f6fb-4171-b771-82e25bdd233b.jpeg)
+
+![IMG_0696](https://user-images.githubusercontent.com/89811894/145658760-6b20640d-48d9-4ee2-8d78-a1d743fde33c.jpeg)
+
+![IMG_1440](https://user-images.githubusercontent.com/89811894/145658765-0644f85d-ab8a-456e-9edd-a9b911609272.jpeg)
+
+![IMG_0695](https://user-images.githubusercontent.com/89811894/145658773-5633ed99-4627-4f38-82f0-c17361b4ed6f.jpeg)
+
+![IMG_0696](https://user-images.githubusercontent.com/89811894/145658780-8f14d34a-becd-4f30-a93e-d4d02e26ea6e.jpeg)
+
+![IMG_1475](https://user-images.githubusercontent.com/89811894/145658801-406d7392-b623-4073-bf8f-5da07b683099.jpeg)
+
+![IMG_1474](https://user-images.githubusercontent.com/89811894/145658803-3975991a-f673-4aae-937f-a89b66f5cc4e.jpeg)
 
 
+*Testing and feedback* 
 
+The testing of my prototype was basically leaving it there and seeing if people were engaging with it. I would say that people engaged with it a lot more than I thought they would. Even the nottes they left behind were so thoughtful and sweet. I think that it needs to be left fpr longer to see if more people leave things there for others. 
+
+As per feedback, I asked four questions and got the following responses:
+
+1. Whats the first thing that comes to your mind when you see this installation?
+
+- Cynthia: Very cute and I can see how it encourages people to share kindness and support to others.
+- Joy: The pantry at my home. It looks so relaxing and comfortable.
+- Community resources. I think it’s super cute, but I did initially assume it was something DT had provided.
+- Very cute and comforting, the wood aesthetic adds a homely/cozy feeling, which I really like. 
+- It’s interesting and heart-warming and love the note board to share words with lonely people.
+- My eye goes to the painted background and how many layers it has to it.
+- I was wondering who the kind soul who put this up was. Did not know it was a prototype!
+- I like the give-and-take concept. People are more willing to take if they have the feeling that they can give something back.
+- I think it’s appropriate with the season as the holidays can be a triggering/sensitive time for some.
+- It is very interesting and kind makes me want to eat something. But also I don’t always have something to leave behind.
+- Kindness
+
+2. Would you contribute anything to the pantry? If yes, why? If not, why not?
+
+- Yes. For sure! Sharing food/snacks brings joy to me.
+- Yes. We DT student need much energy so protein bars will be good.
+- Yes w/ caveat! I would be happy to contribute, but I’d be likely to forget or experience diffusion of responsibility. I’m curious about if the responsibility to replenish would fall on a select few - how can you create accountability?
+- Yes for sure. Because it is always great to help those who need it! Sharing is caring. 
+- Yes. Also I think it’s a good chance to try different food from different countries. 
+- Yes, if I saw it regularly during my day it is a light, positive way of helping to leave things better than one finds them.
+- Yes, I totally would. Are you looking at leaving behind only food/drinks, or could we leave other supplies - plants, stationary, books, etc?
+- Yes, the communication just has to be visible enough. Maybe a flyer in the elevator or something that would remind us so we remember for next time, ( I don’t usually bring food/snacks with me to DT)
+- Yes, I believe it is a nice gesture and way to make oneself feel more connected and rooted in our community.
+- Yes, I would like to contribute to the pantry but I don’t always have something on me ( and depending on the setting, people may not have food that they can just drop off). The thought is definitely present. 
+- Yes, I often leave snacks for people sleeping on the street.
+
+
+3. Are you comfortable with being abled as someone who is feeling lonely?
+
+- Yes, I guess we all are at some point. 
+- Yes, feeling lonely is part of life. I’m getting used to that mindset and try to find inspirations through being alone.
+- Yep! Everyone feels lonely at one point or another.
+- Yep!
+- Yes.
+- Yep, it’s normal. 
+- Yes, totally! And it’s great connecting with other people while you feel this. 
+- Better to acknowledge the feeling always. As a state, it’s preferable to being ‘alone’ in some ways. 
+- It’s all relative and it add and flows. I am very comfortable with being alone, by myself so I don’t generally feel lonely.
+- Yes, since it is such a universal feeling that many people experience! Acknowledging it can also give way to taking courage and do something about it, such as approaching another person/ reaching out to somebody. 
+- Yes, I am fine with being liable as lonely. But, this experience did not make me feel abled as that. It felt more of a gesture where I do something nice for others or others are doing something nice (irrespective of context).
+- Labels aren’t helpful. This is a condition everyone feels at times. 
+
+4. If you saw this in a public space, would you still engage with it? 
+
+- Yes! It’s beautifully set up and attracting. I would love to investigate. And it’s such a warm and sweet project that I really want to contribute in. 
+- Maybe, considering I could hesitate to grab food from it, but I will definitely contribute to it. 
+- Yes. This is a good idea, but the sanitation and safety should be guaranteed. 
+- I would probably feel I wasn’t the target market and move on. Maybe if someone asked me to contribute I would have participated!
+- Maybe. I often encounter community food pantry like things which are intended for those who can’t purchase food. This may be confusing. 
+- Considering the messaging, yes, free food.
+- I’m not sure I’d actually go and take the food since people who really need it might need it more than me. But I would definitely think about contributing to it. 
+- I think the simplicity of the structure combined with the painted background pull me in and I would be moved to leave something.
+- I don’t think so, safety issues. Also, I do think the demand and supply can go wrong if it’s in public.
+- Not in a public space, as I’d be a bit hesitant about safety and hygiene and how safe the food is. 
+- I do think that things like this could work in certain public spaces. In my hometown, we have a lot of shared bookshelves around parks - they seem to work really well too. 
+- In a public space I wouldn’t mind leaving behind packed foods but I would be hesitant to take something from it. 
+
+From all the feedback recieved above, know there are certain things that I need to think about. The very first is, how do I get people to remember to leave things behind? The second is, is it necessary for the pantry to have an obvious connection with loneliness, or should I just say 'if you are having a tough day or feeling hungry'? Although most people said that they don't mind being labled lonely, I also feel that this is true for more people in our space. Our generation is okay with things like these, but I wouldn;t imagine my parents saying it as comfortably. Also, in a space like this, where people are so open minded and kind to each other, it is easier to admit our feelings. So although the installation works on our campus and some other spaces, the text has to be customised depending on the space. Finally, maybe having this in a public space is not the best idea right now. I think that first it needs to expand by going to other educational institutes, places of work and then maybe it could reach public spaces. 
 
 
 
