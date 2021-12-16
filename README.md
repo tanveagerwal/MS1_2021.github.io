@@ -771,11 +771,11 @@ To build the structure, I used pine wood that was a 4x4 feet sheet and cut it in
 
 ![IMG_1368](https://user-images.githubusercontent.com/89811894/145635379-9c633fba-94d5-4dc2-9081-b6e8c5e47ea7.jpeg)
 
-This was really fun because I used a nail gun for the first time! After this, I realised that the structure wasn't string enough and needed some support. So I added some columns inside. 
+This was really fun because I used a nail gun for the first time! After this, I realised that the structure wasn't strong enough and needed some support. So I added some columns inside. 
 
 ![IMG_1369](https://user-images.githubusercontent.com/89811894/145635481-61938635-d7da-4ae6-81da-f644768076ba.jpeg)
 
-Finally, I took it to our campus and painted it. This was definitely not well though out because I wanted it after adding buiding the while structure when I should have done that first. So although, painting it was difficult, it was also an experience because of the different angles I had to turn in. 
+Finally, I took it to our campus and painted it. This was definitely not well thought out because I painted it after building the structure when I should have done that first. So although, painting it was difficult, it was also an experience because of the different angles I had to turn in. 
 I decided to use three colours and a plant-like look because that is something that personally brings me comfort. 
 
 <img width="507" alt="Screenshot 2021-12-10 at 3 17 39 PM" src="https://user-images.githubusercontent.com/89811894/145636131-468ed401-ff88-431c-ba9f-a9e99e2c998b.png">
@@ -806,14 +806,18 @@ Each day more and more notes started coming up, and some people even left food o
 
 ![IMG_1474](https://user-images.githubusercontent.com/89811894/145658803-3975991a-f673-4aae-937f-a89b66f5cc4e.jpeg)
 
+![IMG_1563](https://user-images.githubusercontent.com/89811894/146430740-a668130d-4965-4787-a514-9a35967aaa14.jpeg)
+
+![IMG_1564](https://user-images.githubusercontent.com/89811894/146430747-516705ca-b248-4cb8-b860-8b0b10addcf3.jpeg)
+
 
 *Testing and feedback* 
 
-The testing of my prototype was basically leaving it there and seeing if people were engaging with it. I would say that people engaged with it a lot more than I thought they would. Even the nottes they left behind were so thoughtful and sweet. I think that it needs to be left fpr longer to see if more people leave things there for others. 
+The testing of my prototype was basically leaving it there and seeing if people were engaging with it. I would say that people engaged with it a lot more than I thought they would. Even the notes they left behind were so thoughtful and sweet. Even a cultural aspect was added to the installation because people added things from their own cultures which is seen above. I think that it needs to be left for longer to see if more people leave things there for others. 
 
 As per feedback, I asked four questions and got the following responses:
 
-1. Whats the first thing that comes to your mind when you see this installation?
+Whats the first thing that comes to your mind when you see this installation?
 
 - Cynthia: Very cute and I can see how it encourages people to share kindness and support to others.
 - Joy: The pantry at my home. It looks so relaxing and comfortable.
@@ -827,7 +831,7 @@ As per feedback, I asked four questions and got the following responses:
 - It is very interesting and kind makes me want to eat something. But also I don’t always have something to leave behind.
 - Kindness
 
-2. Would you contribute anything to the pantry? If yes, why? If not, why not?
+Would you contribute anything to the pantry? If yes, why? If not, why not?
 
 - Yes. For sure! Sharing food/snacks brings joy to me.
 - Yes. We DT student need much energy so protein bars will be good.
@@ -842,7 +846,7 @@ As per feedback, I asked four questions and got the following responses:
 - Yes, I often leave snacks for people sleeping on the street.
 
 
-3. Are you comfortable with being abled as someone who is feeling lonely?
+Are you comfortable with being abled as someone who is feeling lonely?
 
 - Yes, I guess we all are at some point. 
 - Yes, feeling lonely is part of life. I’m getting used to that mindset and try to find inspirations through being alone.
@@ -857,7 +861,7 @@ As per feedback, I asked four questions and got the following responses:
 - Yes, I am fine with being liable as lonely. But, this experience did not make me feel abled as that. It felt more of a gesture where I do something nice for others or others are doing something nice (irrespective of context).
 - Labels aren’t helpful. This is a condition everyone feels at times. 
 
-4. If you saw this in a public space, would you still engage with it? 
+If you saw this in a public space, would you still engage with it? 
 
 - Yes! It’s beautifully set up and attracting. I would love to investigate. And it’s such a warm and sweet project that I really want to contribute in. 
 - Maybe, considering I could hesitate to grab food from it, but I will definitely contribute to it. 
@@ -872,9 +876,18 @@ As per feedback, I asked four questions and got the following responses:
 - I do think that things like this could work in certain public spaces. In my hometown, we have a lot of shared bookshelves around parks - they seem to work really well too. 
 - In a public space I wouldn’t mind leaving behind packed foods but I would be hesitant to take something from it. 
 
-From all the feedback recieved above, know there are certain things that I need to think about. The very first is, how do I get people to remember to leave things behind? The second is, is it necessary for the pantry to have an obvious connection with loneliness, or should I just say 'if you are having a tough day or feeling hungry'? Although most people said that they don't mind being labled lonely, I also feel that this is true for more people in our space. Our generation is okay with things like these, but I wouldn;t imagine my parents saying it as comfortably. Also, in a space like this, where people are so open minded and kind to each other, it is easier to admit our feelings. So although the installation works on our campus and some other spaces, the text has to be customised depending on the space. Finally, maybe having this in a public space is not the best idea right now. I think that first it needs to expand by going to other educational institutes, places of work and then maybe it could reach public spaces. 
+From all the feedback recieved above, know there are certain things that I need to think about. The very first is, how do I get people to remember to leave things behind? The second is, is it necessary for the pantry to have an obvious connection with loneliness, or should I just say 'if you are having a tough day or feeling hungry'? Although most people said that they don't mind being labled lonely, I also feel that this is true for more people in our space. Our generation is okay with things like these, but I wouldn't imagine my parents saying it as comfortably. Also, in a space like this, where people are so open minded and kind to each other, it is easier to admit our feelings. So although the installation works on our campus and some other spaces, the text has to be customised depending on the space. Finally, maybe having this in a public space is not the best idea right now. I think that first it needs to expand by going to other educational institutes, places of work and then maybe it could reach public spaces. 
 
+## Final Video 
 
+https://vimeo.com/manage/videos/656791156
 
+For the final video, I wanted to focus on the notes left behind because I thought this was the most important part of it. Also, the quality of the video above isn't too good because vimeo would not allow me to increase it. 
 
+## Moving Forward 
 
+As mentioned above, I do want this project to grow into something bigger, and I think it has the potential to do that. The first thing that I am going to do is, leave it on the campus indefinitely so that it creates a life of it's own. Once this happens, I will bring forth the idea to the school and see if they would be open in placing this on other campuses as well. Further, the idea can reach other institutions and offices, and finally, public spaces. As mentioned above, the context can differ slightly from place to place depending on what is appropriate. 
+Once the pantry is widespread, it can also create a community and host events like a cooking or writing together event, or any other activity that focuses on bringing people together. 
+Loneliness can be a terrifying and unpredictable feeling. It can also hit anyone at anytime, so it is so important to just be there for each other and help in anyway that one can. I believe that this pantry is the first step to doing that. 
+
+![IMG_1896](https://user-images.githubusercontent.com/89811894/146431806-2cea9ce7-652c-453d-b296-3091e726ae3a.JPG)
